@@ -119,4 +119,5 @@ h1 {
   padding: 18px 16px;
   background: #6c757d;
   border-radius: 5px;
+  width: calc(100% / 5);
 }
