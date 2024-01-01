@@ -114,5 +114,9 @@ h1 {
 }
 
 .weather-cards .cards {
+  list-style: none;
+  color: #fff;
+  padding: 18px 16px;
   background: #6c757d;
+  border-radius: 5px;
 }
