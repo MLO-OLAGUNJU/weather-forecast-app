@@ -147,3 +147,13 @@ h1 {
     width: calc(100% / 2 - 10px);
   }
 }
+
+@media (max-width: 750px) {
+  .container {
+    flex-wrap: wrap;
+    padding: 15px;
+  }
+  .weather-input {
+    width: 100%;
+  }
+}
