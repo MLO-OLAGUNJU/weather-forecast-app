@@ -112,3 +112,7 @@ h1 {
   display: flex;
   gap: 20px;
 }
+
+.weather-cards .cards {
+  background: #6c757d;
+}
