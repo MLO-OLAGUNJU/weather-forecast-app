@@ -109,4 +109,6 @@ h1 {
 }
 
 .weather-cards {
+  display: flex;
+  gap: 20px;
 }
