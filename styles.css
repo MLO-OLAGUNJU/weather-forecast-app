@@ -113,11 +113,16 @@ h1 {
   gap: 20px;
 }
 
-.weather-cards .cards {
+.weather-cards .card {
   list-style: none;
   color: #fff;
   padding: 18px 16px;
   background: #6c757d;
   border-radius: 5px;
   width: calc(100% / 5);
+}
+
+.weather-cards .card img {
+  max-width: 70px;
+  margin: 5px 0 -12px 0;
 }
