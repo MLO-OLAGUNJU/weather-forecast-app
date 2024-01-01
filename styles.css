@@ -138,3 +138,12 @@ h1 {
     width: calc(100% / 4 -15px);
   }
 }
+
+@media (max-width: 950px) {
+  .weather-input {
+    width: 450px;
+  }
+  .weather-cards .card {
+    width: calc(100% / 2 - 10px);
+  }
+}
